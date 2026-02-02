@@ -40,5 +40,3 @@
 - Non-goals are as important as goals for preventing bad behavior
 - Small wording changes can significantly alter verbosity, confidence, and abstraction levels
 
-**Bottom line:**  
-Good rules teach the AI *how to think with you*, not *how to obey you*.
